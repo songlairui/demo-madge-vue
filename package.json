@@ -1,0 +1,17 @@
+{
+  "name": "play-madge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "svg": "madge sample-js/play.es.js --image result.svg",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "madge": "^3.7.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
